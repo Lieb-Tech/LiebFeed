@@ -1,0 +1,9 @@
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\bin\Debug\netstandard2.0\SharedMessages.deps.json
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\bin\Debug\netstandard2.0\SharedMessages.dll
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\bin\Debug\netstandard2.0\SharedMessages.pdb
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\obj\Debug\netstandard2.0\SharedMessages.csprojAssemblyReference.cache
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\obj\Debug\netstandard2.0\SharedMessages.csproj.CoreCompileInputs.cache
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\obj\Debug\netstandard2.0\SharedMessages.AssemblyInfoInputs.cache
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\obj\Debug\netstandard2.0\SharedMessages.AssemblyInfo.cs
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\obj\Debug\netstandard2.0\SharedMessages.dll
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\SharedMessages\obj\Debug\netstandard2.0\SharedMessages.pdb

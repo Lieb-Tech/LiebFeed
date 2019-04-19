@@ -1,0 +1,12 @@
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\bin\Release\netcoreapp2.2\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\bin\Release\netcoreapp2.2\LiebFeed.deps.json
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\bin\Release\netcoreapp2.2\LiebFeed.runtimeconfig.json
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\bin\Release\netcoreapp2.2\LiebFeed.runtimeconfig.dev.json
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\bin\Release\netcoreapp2.2\LiebFeed.dll
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\bin\Release\netcoreapp2.2\LiebFeed.pdb
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\obj\Release\netcoreapp2.2\LiebFeed.csprojAssemblyReference.cache
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\obj\Release\netcoreapp2.2\LiebFeed.csproj.CoreCompileInputs.cache
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\obj\Release\netcoreapp2.2\LiebFeed.AssemblyInfoInputs.cache
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\obj\Release\netcoreapp2.2\LiebFeed.AssemblyInfo.cs
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\obj\Release\netcoreapp2.2\LiebFeed.dll
+C:\Users\marten\Documents\Visual Studio 2017\Projects\LiebFeed\LiebFeed\obj\Release\netcoreapp2.2\LiebFeed.pdb

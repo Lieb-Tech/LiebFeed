@@ -1,0 +1,4 @@
+cosmosDbKey.json
+*.lock
+
+**/bin
