@@ -4,3 +4,4 @@ cosmosDbKey.json
 **/.vs
 **/bin
 **/obj
+**/PublishProfiles
